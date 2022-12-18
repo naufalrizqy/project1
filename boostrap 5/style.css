@@ -1,0 +1,21 @@
+body {
+   
+}
+.jumbotron {
+    padding-top: 5em;
+    width: 100%;
+    background-color: rgb(130, 179, 218);
+ 
+}
+.jumbotron img {
+    margin-bottom: 30px;
+}
+.jumbotron svg {
+   padding-right: 0;
+}
+#project {
+    background-color:  rgb(130, 179, 218);
+}
+footer{
+  background-color: rgba(99, 162, 213, 0.645);
+}
